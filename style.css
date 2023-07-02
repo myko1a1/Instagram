@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.content{
+    background-color: white;
+    width: 80%;
+    height: 750px;
+    margin: 0 auto;
+    display: flex;
+}
+.image{
+    padding-top: 55px;
+    padding-left: 130px;
+}
+.registration{
+    background-color: white;
+    width: 400px;
+    height: 700px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Lobster';
+    font-style: normal;
+    align-items: center;
+}
+.text{
+    padding-left: 100px;
+}
+.logiin{
+    width: 270px;
+    height: 35px;
+    background-color: rgb(247, 247, 247);
+}
+.pass{
+    width: 270px;
+    height: 35px;
+    background-color: rgb(247, 247, 247);
+}
+.password{
+    padding-top: 5px;
+    padding-left: 40px;
+}
+.login{
+    padding-left: 40px;
+}
+button{
+    position: relative;
+    top: 15px;
+    width: 277px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: rgb(61, 163, 211);
+    color: white;
+    font-size: 15px;
+    left: 40px;
+}
+.abo{
+    display: flex;
+    flex-direction: row;
+    padding-top: 25px;
+    padding-left: 60px;
+    color: gray;
+}
+.pp{
+    position: relative;
+    bottom: 8px;
+}
+.aboo{
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+}
+.faceboook{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(44, 44, 124);
+}
+.fakeb{
+    padding-left: 110px;
+}
+.forgot{
+    color: gray;
+    font-size: 12px;
+}
+.forgotpass{
+    padding-left: 145px;
+}
+.supp{
+    width: 260px;
+    height: 70px;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-left: 45px;
+}
+.support{
+    color: gray;
+}
+.supoort{
+    text-decoration: none;
+    color: rgb(44, 44, 124);
+}
+.second{
+    padding-top: 10px;
+}
+.seccond{
+    padding-left: 35px;
+}
+.regist{
+    text-decoration: none;
+    color: rgb(0, 153, 255); 
+}
+.down{
+    padding-top: 10px;
+    padding-left: 125px;
+}
+.image1{
+    width: 150px;
+}
+.image2{
+    width: 135px;
+    height: 43px;
+}
+.download{
+    padding-left: 50px;
+}
+.footer{
+    font-size: 12px;
+    width: 100%;
+    height: 100px;
+}
+.footers{
+    padding-left: 10px;
+    color: gray;
+    text-decoration: none;
+}
+.footer1{
+    padding-top: 20px;
+    padding-left: 160px;
+}
+.footers:hover{
+    text-decoration: underline;
+}
+.footer2{
+    padding-left: 500px;
+}
+.footer3{
+    padding-left: 600px;
+    color: gray;
+}
